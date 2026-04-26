@@ -13,7 +13,7 @@ import useMediaQuery from '@mui/material/useMediaQuery';
 import { useState, useContext, useEffect } from 'react';
 import AddShoppingCartIcon from '@mui/icons-material/AddShoppingCart';
 import RemoveShoppingCartIcon from '@mui/icons-material/RemoveShoppingCart';
-import { CartContext } from '../context/CartContext';
+import { CartContext } from '../pages/context/CartContext';
 
 const ItemViewer = ({ data, category, color, priceRange }) => {
     const categoriesArray = data?.categories ?? [];
