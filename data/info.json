@@ -2,804 +2,804 @@
     "categories": [
         {
             "name": "Пленка в листах 'New Tide', Cn25L, 45*48, 13 листов",
-            "image_path": "/categories/18.jpeg",
+            "image_path": "/categories/18.JPEG",
             "price": "200",
             "subcategories": [
                 {
                     "color": "Фуксия",
-                    "image_path": "/subcategories/IMG_2484.png"
+                    "image_path": "/subcategories/IMG_2484.PNG"
                 },
                 {
                     "color": "Красный",
-                    "image_path": "/subcategories/IMG_2483.png"
+                    "image_path": "/subcategories/IMG_2483.PNG"
                 },
                 {
                     "color": "Электрик",
-                    "image_path": "/subcategories/IMG_2479.png"
+                    "image_path": "/subcategories/IMG_2479.PNG"
                 },
                 {
                     "color": "Небесный",
-                    "image_path": "/subcategories/IMG_2478.png"
+                    "image_path": "/subcategories/IMG_2478.PNG"
                 },
                 {
                     "color": "Травяной",
-                    "image_path": "/subcategories/IMG_2477.png"
+                    "image_path": "/subcategories/IMG_2477.PNG"
                 },
                 {
                     "color": "Оливковый",
-                    "image_path": "/subcategories/IMG_2476.png"
+                    "image_path": "/subcategories/IMG_2476.PNG"
                 },
                 {
                     "color": "Нежно-розовый",
-                    "image_path": "/subcategories/IMG_2475.png"
+                    "image_path": "/subcategories/IMG_2475.PNG"
                 },
                 {
                     "color": "Светло-розовый",
-                    "image_path": "/subcategories/IMG_2474.png"
+                    "image_path": "/subcategories/IMG_2474.PNG"
                 },
                 {
                     "color": "Темно-розовый",
-                    "image_path": "/subcategories/IMG_2473.png"
+                    "image_path": "/subcategories/IMG_2473.PNG"
                 },
                 {
                     "color": "Сиреневый",
-                    "image_path": "/subcategories/IMG_2472.png"
+                    "image_path": "/subcategories/IMG_2472.PNG"
                 },
                 {
                     "color": "Коричневый",
-                    "image_path": "/subcategories/IMG_2471.png"
+                    "image_path": "/subcategories/IMG_2471.PNG"
                 },
                 {
                     "color": "Бежевый",
-                    "image_path": "/subcategories/IMG_2470.png"
+                    "image_path": "/subcategories/IMG_2470.PNG"
                 },
                 {
                     "color": "Пыльно-розовый",
-                    "image_path": "/subcategories/IMG_2469.png"
+                    "image_path": "/subcategories/IMG_2469.PNG"
                 },
                 {
                     "color": "Белый",
-                    "image_path": "/subcategories/IMG_2468.jpeg"
+                    "image_path": "/subcategories/IMG_2468.JPEG"
                 },
                 {
                     "color": "Желтый",
-                    "image_path": "/subcategories/IMG_2467.png"
+                    "image_path": "/subcategories/IMG_2467.PNG"
                 },
                 {
                     "color": "Оливковый",
-                    "image_path": "/subcategories/95.jpeg"
+                    "image_path": "/subcategories/95.JPEG"
                 },
                 {
                     "color": "Салатовый",
-                    "image_path": "/subcategories/97.jpeg"
+                    "image_path": "/subcategories/97.JPEG"
                 },
                 {
                     "color": "Ментол",
-                    "image_path": "/subcategories/93.jpeg"
+                    "image_path": "/subcategories/93.JPEG"
                 },
                 {
                     "color": "Ярко-синий",
-                    "image_path": "/subcategories/94.jpeg"
+                    "image_path": "/subcategories/94.JPEG"
                 },
                 {
                     "color": "Светлый фисташковый",
-                    "image_path": "/subcategories/96.jpeg"
+                    "image_path": "/subcategories/96.JPEG"
                 },
                 {
                     "color": "Пастельный зеленый",
-                    "image_path": "/subcategories/98.jpeg"
+                    "image_path": "/subcategories/98.JPEG"
                 }
             ]
         },
         {
             "name": "Пленка в листах, Cn25L, 52*50, 20 листов",
-            "image_path": "/categories/53.jpeg",
+            "image_path": "/categories/12.JPEG",
             "price": "210",
             "subcategories": [
                 {
                     "color": "Персиковый",
-                    "image_path": "/subcategories/IMG_1839.png"
+                    "image_path": "/subcategories/IMG_1839.PNG"
                 },
                 {
                     "color": "Салатовый",
-                    "image_path": "/subcategories/IMG_1838.png"
+                    "image_path": "/subcategories/IMG_1838.PNG"
                 },
                 {
                     "color": "Синий",
-                    "image_path": "/subcategories/IMG_1840.png"
+                    "image_path": "/subcategories/IMG_1840.PNG"
                 }
             ]
         },
         {
             "name": "Пленка в листах, Cn25L, 56*56, 20 листов",
-            "image_path": "/categories/52.jpeg",
+            "image_path": "/categories/52.JPEG",
             "price": "190",
             "subcategories": [
                 {
                     "color": "Темно-фиолетовый",
-                    "image_path": "/subcategories/23.jpeg"
+                    "image_path": "/subcategories/23.JPEG"
                 },
                 {
                     "color": "Голубой",
-                    "image_path": "/subcategories/22.jpeg"
+                    "image_path": "/subcategories/22.JPEG"
                 },
                 {
                     "color": "Терракот",
-                    "image_path": "/subcategories/IMG_3964.png"
+                    "image_path": "/subcategories/IMG_3964.PNG"
                 },
                 {
                     "color": "Оранжевый",
-                    "image_path": "/subcategories/IMG_3965.png"
+                    "image_path": "/subcategories/IMG_3965.PNG"
                 },
                 {
                     "color": "Серо-сиреневый",
-                    "image_path": "/subcategories/IMG_3974.png"
+                    "image_path": "/subcategories/IMG_3974.PNG"
                 },
                 {
                     "color": "Сиреневый",
-                    "image_path": "/subcategories/IMG_3967.png"
+                    "image_path": "/subcategories/IMG_3967.PNG"
                 },
                 {
                     "color": "Красный",
-                    "image_path": "/subcategories/IMG_3966.png"
+                    "image_path": "/subcategories/IMG_3966.PNG"
                 },
                 {
                     "color": "Темный баклажан",
-                    "image_path": "/subcategories/IMG_4196.png"
+                    "image_path": "/subcategories/IMG_4196.PNG"
                 },
                 {
                     "color": "Серый",
-                    "image_path": "/subcategories/IMG_4191.png"
+                    "image_path": "/subcategories/IMG_4191.PNG"
                 },
                 {
                     "color": "Оранжевый",
-                    "image_path": "/subcategories/IMG_4188.png"
+                    "image_path": "/subcategories/IMG_4188.PNG"
                 },
                 {
                     "color": "Фуксия",
-                    "image_path": "/subcategories/IMG_4187.png"
+                    "image_path": "/subcategories/IMG_4187.PNG"
                 },
                 {
                     "color": "Темно-зеленый",
-                    "image_path": "/subcategories/IMG_4185.png"
+                    "image_path": "/subcategories/IMG_4185.PNG"
                 },
                 {
                     "color": "Светло-желтый",
-                    "image_path": "/subcategories/IMG_4183.png"
+                    "image_path": "/subcategories/IMG_4183.PNG"
                 },
                 {
                     "color": "Голубой",
-                    "image_path": "/subcategories/IMG_4181.png"
+                    "image_path": "/subcategories/IMG_4181.PNG"
                 }
             ]
         },
         {
             "name": "Пленка прозрачная",
-            "image_path": "/categories/15.jpeg",
+            "image_path": "/categories/15.JPEG",
             "price": "300",
             "subcategories": [
                 {
                     "color": "в листах Розовый, 56*56, Cn25L",
-                    "image_path": "/subcategories/IMG_4499.jpeg",
+                    "image_path": "/subcategories/IMG_4499.JPEG",
                     "price": "280"
                 },
                 {
                     "color": "Голубой, 56*56, Cn25L, 20 листов",
-                    "image_path": "/subcategories/IMG_1827.png"
+                    "image_path": "/subcategories/IMG_1827.PNG"
                 },
                 {
                     "color": "Сине-серый, 56*56, Cn25L, 20 листов",
-                    "image_path": "/subcategories/IMG_1830.png"
+                    "image_path": "/subcategories/IMG_1830.PNG"
                 },
                 {
                     "color": "Фиолетовый, 56*56, Cn25L, 20 листов",
-                    "image_path": "/subcategories/IMG_1820.png"
+                    "image_path": "/subcategories/IMG_1820.PNG"
                 },
                 {
                     "color": "Пеорсиковый, 56*56, Cn25L, 20 листов",
-                    "image_path": "/subcategories/IMG_1822.png"
+                    "image_path": "/subcategories/IMG_1822.PNG"
                 }
             ]
         },
         {
             "name": "Пленка листы, Cn25L, 45*50, 20 листов",
-            "image_path": "/categories/23.jpeg",
+            "image_path": "/categories/23.JPEG",
             "price": "190",
             "subcategories": [
                 {
                     "color": "Персиковый",
-                    "image_path": "/subcategories/IMG_3969.png"
+                    "image_path": "/subcategories/IMG_3969.PNG"
                 },
                 {
                     "color": "Фуксия",
-                    "image_path": "/subcategories/IMG_3970.png"
+                    "image_path": "/subcategories/IMG_3970.PNG"
                 },
                 {
                     "color": "Желтый",
-                    "image_path": "/subcategories/IMG_3971.png"
+                    "image_path": "/subcategories/IMG_3971.PNG"
                 },
                 {
                     "color": "Оливковый",
-                    "image_path": "/subcategories/IMG_3972.png"
+                    "image_path": "/subcategories/IMG_3972.PNG"
                 },
                 {
                     "color": "Светло-желтый",
-                    "image_path": "/subcategories/IMG_3973.png"
+                    "image_path": "/subcategories/IMG_3973.PNG"
                 },
                 {
                     "color": "Оранжевый",
-                    "image_path": "/subcategories/IMG_3968.png"
+                    "image_path": "/subcategories/IMG_3968.PNG"
                 }
             ]
         },
         {
             "name": "Пленка матовая прозрачная, Cn25L, 38.5*45, 20 листов",
-            "image_path": "/categories/1.jpeg",
+            "image_path": "/categories/1.JPEG",
             "price": "170",
             "subcategories": [
                 {
                     "color": "Сиреневый",
-                    "image_path": "/subcategories/IMG_3995.png"
+                    "image_path": "/subcategories/IMG_3995.PNG"
                 },
                 {
                     "color": "Голубой",
-                    "image_path": "/subcategories/IMG_3996.png"
+                    "image_path": "/subcategories/IMG_3996.PNG"
                 },
                 {
                     "color": "Белый",
-                    "image_path": "/subcategories/IMG_3994.png"
+                    "image_path": "/subcategories/IMG_3994.PNG"
                 },
                 {
                     "color": "Оливковый",
-                    "image_path": "/subcategories/IMG_3993.png"
+                    "image_path": "/subcategories/IMG_3993.PNG"
                 },
                 {
                     "color": "Серый",
-                    "image_path": "/subcategories/IMG_3992.png"
+                    "image_path": "/subcategories/IMG_3992.PNG"
                 }
             ]
         },
         {
             "name": "Пленка с бронзовым кантом, Cn25L, 56*56, 20 листов",
-            "image_path": "/categories/5.jpeg",
+            "image_path": "/categories/5.JPEG",
             "price": "190",
             "subcategories": [
                 {
                     "color": "Пыльная Роза",
-                    "image_path": "/subcategories/IMG_1742.png"
+                    "image_path": "/subcategories/IMG_1742.PNG"
                 },
                 {
                     "color": "Сиреневый",
-                    "image_path": "/subcategories/IMG_1746.png"
+                    "image_path": "/subcategories/IMG_1746.PNG"
                 },
                 {
                     "color": "Желтый",
-                    "image_path": "/subcategories/IMG_1747.png"
+                    "image_path": "/subcategories/IMG_1747.PNG"
                 }
             ]
         },
         {
             "name": "Пленка с золотым кантом, Cn25L, 56*56, 20 листов",
-            "image_path": "/categories/19.jpeg",
+            "image_path": "/categories/19.JPEG",
             "price": "190",
             "subcategories": [
                 {
                     "color": "Бордовый",
-                    "image_path": "/subcategories/IMG_1739.png"
+                    "image_path": "/subcategories/IMG_1739.PNG"
                 },
                 {
                     "color": "Мятный",
-                    "image_path": "/subcategories/IMG_1740.png"
+                    "image_path": "/subcategories/IMG_1740.PNG"
                 },
                 {
                     "color": "Белый",
-                    "image_path": "/subcategories/IMG_1741.png"
+                    "image_path": "/subcategories/IMG_1741.PNG"
                 },
                 {
                     "color": "Бежево-кофейный",
-                    "image_path": "/subcategories/IMG_1743.png"
+                    "image_path": "/subcategories/IMG_1743.PNG"
                 },
                 {
                     "color": "Нежно-розовый",
-                    "image_path": "/subcategories/IMG_1744.png"
+                    "image_path": "/subcategories/IMG_1744.PNG"
                 },
                 {
                     "color": "Розовый",
-                    "image_path": "/subcategories/IMG_1745.png"
+                    "image_path": "/subcategories/IMG_1745.PNG"
                 }
             ]
         },
         {
             "name": "Крафт в листах, Cn25L, 58*58, 15 листов",
-            "image_path": "/categories/3.jpeg",
+            "image_path": "/categories/3.JPEG",
             "price": "300",
             "subcategories": [
                 {
                     "color": "Голубой",
-                    "image_path": "/subcategories/IMG_1987.png"
+                    "image_path": "/subcategories/IMG_1987.PNG"
                 },
                 {
                     "color": "Фуксия",
-                    "image_path": "/subcategories/IMG_1988.png"
+                    "image_path": "/subcategories/IMG_1988.PNG"
                 },
                 {
                     "color": "Синий",
-                    "image_path": "/subcategories/IMG_1989.png"
+                    "image_path": "/subcategories/IMG_1989.PNG"
                 },
                 {
                     "color": "Темно-красный",
-                    "image_path": "/subcategories/IMG_1990.png"
+                    "image_path": "/subcategories/IMG_1990.PNG"
                 },
                 {
                     "color": "Пыльно-розовый",
-                    "image_path": "/subcategories/90.jpeg"
+                    "image_path": "/subcategories/90.JPEG"
                 }
             ]
         },
         {
             "name": "Крафт влагостойкий в рулоне, Cn25L/R, 58*800",
-            "image_path": "/categories/4.jpg",
+            "image_path": "/categories/4.JPG",
             "price": "300",
             "subcategories": [
                 {
                     "color": "Коричневый",
-                    "image_path": "/subcategories/IMG_1950.png"
+                    "image_path": "/subcategories/IMG_1950.PNG"
                 },
                 {
                     "color": "Персиковый",
-                    "image_path": "/subcategories/IMG_1951.png"
+                    "image_path": "/subcategories/IMG_1951.PNG"
                 },
                 {
                     "color": "Розовый",
-                    "image_path": "/subcategories/IMG_1952.png"
+                    "image_path": "/subcategories/IMG_1952.PNG"
                 },
                 {
                     "color": "Оливковый",
-                    "image_path": "/subcategories/IMG_1953.png"
+                    "image_path": "/subcategories/IMG_1953.PNG"
                 },
                 {
                     "color": "Пыльная Роза",
-                    "image_path": "/subcategories/IMG_1955.png"
+                    "image_path": "/subcategories/IMG_1955.PNG"
                 },
                 {
                     "color": "Песочный",
-                    "image_path": "/subcategories/IMG_1956.png"
+                    "image_path": "/subcategories/IMG_1956.PNG"
                 },
                 {
                     "color": "Синий",
-                    "image_path": "/subcategories/IMG_4004.png"
+                    "image_path": "/subcategories/IMG_4004.PNG"
                 }
             ]
         },
         {
             "name": "Тишью в листах, Cn25L/T, 230*250, 20 листов",
-            "image_path": "/categories/70.jpeg",
+            "image_path": "/categories/70.JPEG",
             "price": "230",
             "subcategories": [
                 {
                     "color": "Белый",
-                    "image_path": "/subcategories/IMG_1910.png"
+                    "image_path": "/subcategories/IMG_1910.PNG"
                 },
                 {
                     "color": "Нежно-персиковый",
-                    "image_path": "/subcategories/IMG_1911.png"
+                    "image_path": "/subcategories/IMG_1911.PNG"
                 },
                 {
                     "color": "Нежно-розовый",
-                    "image_path": "/subcategories/IMG_1913.png"
+                    "image_path": "/subcategories/IMG_1913.PNG"
                 },
                 {
                     "color": "Песочный",
-                    "image_path": "/subcategories/IMG_1922.png"
+                    "image_path": "/subcategories/IMG_1922.PNG"
                 },
                 {
                     "color": "Сиреневый",
-                    "image_path": "/subcategories/IMG_1923.png"
+                    "image_path": "/subcategories/IMG_1923.PNG"
                 },
                 {
                     "color": "Пыльная Роза",
-                    "image_path": "/subcategories/IMG_1943.png"
+                    "image_path": "/subcategories/IMG_1943.PNG"
                 },
                 {
                     "color": "Бежевый",
-                    "image_path": "/subcategories/IMG_1929.png"
+                    "image_path": "/subcategories/IMG_1929.PNG"
                 },
                 {
                     "color": "Кофе с молоком",
-                    "image_path": "/subcategories/IMG_4064.png"
+                    "image_path": "/subcategories/IMG_4064.PNG"
                 },
                 {
                     "color": "Красный",
-                    "image_path": "/subcategories/91.jpeg"
+                    "image_path": "/subcategories/91.JPEG"
                 }
             ]
         },
         {
             "name": "Тишью с шиммером, Cn25L/T, 50*75, 10 листов",
-            "image_path": "/categories/11.jpeg",
+            "image_path": "/categories/11.JPEG",
             "price": "250",
             "subcategories": [
                 {
                     "color": "Бронзовое золото",
-                    "image_path": "/subcategories/IMG_4066.png"
+                    "image_path": "/subcategories/IMG_4066.PNG"
                 },
                 {
                     "color": "Нежно-голубой",
-                    "image_path": "/subcategories/IMG_4067.png"
+                    "image_path": "/subcategories/IMG_4067.PNG"
                 }
             ]
         },
         {
             "name": "Тишью с принтом, Cn25L/T, 56*56. 20 листов",
-            "image_path": "/categories/6.jpg",
+            "image_path": "/categories/6.JPG",
             "price": "250",
             "subcategories": [
                 {
                     "color": "Белый / Серебряные звезды",
-                    "image_path": "/subcategories/IMG_1332.png"
+                    "image_path": "/subcategories/IMG_1332.PNG"
                 },
                 {
                     "color": "Розовый / Золотые звезды",
-                    "image_path": "/subcategories/IMG_1333.png"
+                    "image_path": "/subcategories/IMG_1333.PNG"
                 },
                 {
                     "color": "Розовый / Черные звезды",
-                    "image_path": "/subcategories/IMG_1334.png"
+                    "image_path": "/subcategories/IMG_1334.PNG"
                 },
                 {
                     "color": "Белый / Золотые звезды",
-                    "image_path": "/subcategories/IMG_1331.png"
+                    "image_path": "/subcategories/IMG_1331.PNG"
                 }
             ]
         },
         {
             "name": "Бумага со стразами, Cn25L, 60*38, 10 листов",
-            "image_path": "/categories/2.jpeg",
+            "image_path": "/categories/2.JPEG",
             "price": "360",
             "subcategories": [
                 {
                     "color": "Красный",
-                    "image_path": "/subcategories/IMG_2405.jpeg"
+                    "image_path": "/subcategories/IMG_2405.JPEG"
                 },
                 {
                     "color": "Фиолетовый",
-                    "image_path": "/subcategories/IMG_2406.jpeg"
+                    "image_path": "/subcategories/IMG_2406.JPEG"
                 },
                 {
                     "color": "Сиреневый",
-                    "image_path": "/subcategories/IMG_2407.jpeg"
+                    "image_path": "/subcategories/IMG_2407.JPEG"
                 },
                 {
                     "color": "Зеленый",
-                    "image_path": "/subcategories/IMG_2408.jpeg"
+                    "image_path": "/subcategories/IMG_2408.JPEG"
                 },
                 {
                     "color": "Лимонный",
-                    "image_path": "/subcategories/IMG_2287.jpg"
+                    "image_path": "/subcategories/IMG_2287.JPG"
                 },
                 {
                     "color": "Белый",
-                    "image_path": "/subcategories/IMG_2289.jpg"
+                    "image_path": "/subcategories/IMG_2289.JPG"
                 },
                 {
                     "color": "Розовый",
-                    "image_path": "/subcategories/IMG_2292.jpg"
+                    "image_path": "/subcategories/IMG_2292.JPG"
                 }
             ]
         },
         {
             "name": "Рифленая бумага в листах, Cn25L, 51*51, 10 листов",
-            "image_path": "/categories/21.jpg",
+            "image_path": "/categories/21.JPG",
             "price": "200",
             "subcategories": [
                 {
                     "color": "Сиреневый",
-                    "image_path": "/subcategories/IMG_4124.png"
+                    "image_path": "/subcategories/IMG_4124.PNG"
                 },
                 {
                     "color": "Персиковый",
-                    "image_path": "/subcategories/IMG_4121.png"
+                    "image_path": "/subcategories/IMG_4121.PNG"
                 },
                 {
                     "color": "Белый",
-                    "image_path": "/subcategories/IMG_4122.png"
+                    "image_path": "/subcategories/IMG_4122.PNG"
                 },
                 {
                     "color": "Светло-желтый",
-                    "image_path": "/subcategories/IMG_4128.png"
+                    "image_path": "/subcategories/IMG_4128.PNG"
                 },
                 {
                     "color": "Розовый",
-                    "image_path": "/subcategories/IMG_4142.png"
+                    "image_path": "/subcategories/IMG_4142.PNG"
                 },
                 {
                     "color": "Серо-сиреневый",
-                    "image_path": "/subcategories/IMG_4127.png"
+                    "image_path": "/subcategories/IMG_4127.PNG"
                 },
                 {
                     "color": "Красно-бордовый",
-                    "image_path": "/subcategories/IMG_4123.png"
+                    "image_path": "/subcategories/IMG_4123.PNG"
                 }
             ]
         },
         {
             "name": "Бумага рифленая в листах, Cn25L/PR, 51*51, 10 листов",
-            "image_path": "/categories/7.jpg",
+            "image_path": "/categories/7.JPG",
             "price": "210",
             "subcategories": [
                 {
                     "color": "Серый",
-                    "image_path": "/subcategories/IMG_4235.png"
+                    "image_path": "/subcategories/IMG_4235.PNG"
                 },
                 {
                     "color": "Розовый",
-                    "image_path": "/subcategories/IMG_4236.png"
+                    "image_path": "/subcategories/IMG_4236.PNG"
                 }
             ]
         },
         {
             "name": "Бумага с принтом в листах, Cn25L/PR, 35*50, 10 листов",
-            "image_path": "/categories/9.jpeg",
+            "image_path": "/categories/9.JPEG",
             "price": "210",
             "subcategories": [
                 {
                     "color": "Розовый",
-                    "image_path": "/subcategories/IMG_1639.png"
+                    "image_path": "/subcategories/IMG_1639.PNG"
                 },
                 {
                     "color": "Оливковый",
-                    "image_path": "/subcategories/IMG_1640.png"
+                    "image_path": "/subcategories/IMG_1640.PNG"
                 },
                 {
                     "color": "Голубой",
-                    "image_path": "/subcategories/IMG_1641.png"
+                    "image_path": "/subcategories/IMG_1641.PNG"
                 },
                 {
                     "color": "Нежно-оливковый",
-                    "image_path": "/subcategories/IMG_1642.png"
+                    "image_path": "/subcategories/IMG_1642.PNG"
                 }
             ]
         },
         {
             "name": "Бумага листы, Cn25L/PR, 37*52, 10 листов",
-            "image_path": "/categories/10.jpeg",
+            "image_path": "/categories/10.JPEG",
             "price": "210",
             "subcategories": [
                 {
                     "color": "Розы",
-                    "image_path": "/subcategories/IMG_4391.png"
+                    "image_path": "/subcategories/IMG_4391.PNG"
                 },
                 {
                     "color": "Черный",
-                    "image_path": "/subcategories/IMG_4388.png"
+                    "image_path": "/subcategories/IMG_4388.PNG"
                 }
             ]
         },
         {
             "name": "Инструменты",
-            "image_path": "/categories/13.jpeg",
+            "image_path": "/categories/13.JPEG",
             "price": "200",
             "subcategories": [
                 {
                     "color": "Ножницы бензин",
-                    "image_path": "/subcategories/1.jpeg",
+                    "image_path": "/subcategories/1.JPEG",
                     "price": "530"
                 },
                 {
                     "color": "Ножницы розовые",
-                    "image_path": "/subcategories/2.jpeg",
+                    "image_path": "/subcategories/2.JPEG",
                     "price": "530"
                 },
                 {
                     "color": "Секатор желтый",
-                    "image_path": "/subcategories/25.jpeg",
+                    "image_path": "/subcategories/25.JPEG",
                     "price": "530"
                 },
                 {
                     "color": "Секатор красный",
-                    "image_path": "/subcategories/26.jpeg",
+                    "image_path": "/subcategories/26.JPEG",
                     "price": "350"
                 },
                 {
                     "color": "Нож для оазиса, Cn25N, 36 см., розовый",
-                    "image_path": "/subcategories/27.jpeg",
+                    "image_path": "/subcategories/27.JPEG",
                     "price": "350"
                 },
                 {
                     "color": "Нож для оазиса, Cn25N, 36 см., сиреневый",
-                    "image_path": "/subcategories/28.jpeg",
+                    "image_path": "/subcategories/28.JPEG",
                     "price": "350"
                 },
                 {
                     "color": "Нож для оазиса, Cn25N, 36 см., желтый",
-                    "image_path": "/subcategories/29.jpeg",
+                    "image_path": "/subcategories/29.JPEG",
                     "price": "350"
                 }
             ]
         },
         {
             "name": "Открытка с конвертом и вкладышем, Cn25, 17*20",
-            "image_path": "/categories/14.png",
+            "image_path": "/categories/14.PNG",
             "price": "120",
             "subcategories": [
                 {
                     "color": "Роза",
-                    "image_path": "/subcategories/IMG_3928.png"
+                    "image_path": "/subcategories/IMG_3928.PNG"
                 },
                 {
                     "color": "Тюльпан",
-                    "image_path": "/subcategories/IMG_3929.png"
+                    "image_path": "/subcategories/IMG_3929.PNG"
                 },
                 {
                     "color": "Ирис",
-                    "image_path": "/subcategories/IMG_3930.png"
+                    "image_path": "/subcategories/IMG_3930.PNG"
                 },
                 {
                     "color": "Пионовидная Роза",
-                    "image_path": "/subcategories/IMG_3931.png"
+                    "image_path": "/subcategories/IMG_3931.PNG"
                 },
                 {
                     "color": "Ромашка",
-                    "image_path": "/subcategories/IMG_3932.png"
+                    "image_path": "/subcategories/IMG_3932.PNG"
                 },
                 {
                     "color": "Гортензия",
-                    "image_path": "/subcategories/IMG_3933.png"
+                    "image_path": "/subcategories/IMG_3933.PNG"
                 }
             ]
         },
         {
             "name": "Лента атласная, Cn25Rib, 2*1800",
-            "image_path": "/categories/22.jpeg",
+            "image_path": "/categories/22.JPEG",
             "price": "200",
             "subcategories": [
                 {
                     "color": "Белый",
-                    "image_path": "/subcategories/16.jpeg"
+                    "image_path": "/subcategories/16.JPEG"
                 },
                 {
                     "color": "Кремовая",
-                    "image_path": "/subcategories/IMG_4587.jpeg"
+                    "image_path": "/subcategories/IMG_4587.JPEG"
                 },
                 {
                     "color": "Светло-серая",
-                    "image_path": "/subcategories/IMG_4586.jpeg"
+                    "image_path": "/subcategories/IMG_4586.JPEG"
                 },
                 {
                     "color": "Серая",
-                    "image_path": "/subcategories/IMG_4585.jpeg"
+                    "image_path": "/subcategories/IMG_4585.JPEG"
                 },
                 {
                     "color": "Графит",
-                    "image_path": "/subcategories/IMG_4584.jpeg"
+                    "image_path": "/subcategories/IMG_4584.JPEG"
                 },
                 {
                     "color": "Светлый графит",
-                    "image_path": "/subcategories/IMG_4583.jpeg"
+                    "image_path": "/subcategories/IMG_4583.JPEG"
                 },
                 {
                     "color": "Молочно-розовая",
-                    "image_path": "/subcategories/IMG_4582.jpeg"
+                    "image_path": "/subcategories/IMG_4582.JPEG"
                 },
                 {
                     "color": "Светло-розовая",
-                    "image_path": "/subcategories/IMG_4580.jpeg"
+                    "image_path": "/subcategories/IMG_4580.JPEG"
                 },
                 {
                     "color": "Ярко-розовая",
-                    "image_path": "/subcategories/IMG_4579.jpeg"
+                    "image_path": "/subcategories/IMG_4579.JPEG"
                 },
                 {
                     "color": "Темно-розовая",
-                    "image_path": "/subcategories/IMG_4578.jpeg"
+                    "image_path": "/subcategories/IMG_4578.JPEG"
                 },
                 {
                     "color": "Пыльная Роза",
-                    "image_path": "/subcategories/IMG_4577.jpeg"
+                    "image_path": "/subcategories/IMG_4577.JPEG"
                 },
                 {
                     "color": "Светло-персиковая",
-                    "image_path": "/subcategories/IMG_4576.jpeg"
+                    "image_path": "/subcategories/IMG_4576.JPEG"
                 },
                 {
                     "color": "Темная пыльная Роза",
-                    "image_path": "/subcategories/IMG_4575.jpeg"
+                    "image_path": "/subcategories/IMG_4575.JPEG"
                 },
                 {
                     "color": "Персиковый",
-                    "image_path": "/subcategories/IMG_4573.jpeg"
+                    "image_path": "/subcategories/IMG_4573.JPEG"
                 },
                 {
                     "color": "Ярко-кремовый",
-                    "image_path": "/subcategories/IMG_4572.jpeg"
+                    "image_path": "/subcategories/IMG_4572.JPEG"
                 },
                 {
                     "color": "Ярко-красный",
-                    "image_path": "/subcategories/IMG_4571.jpeg"
+                    "image_path": "/subcategories/IMG_4571.JPEG"
                 },
                 {
                     "color": "Алый",
-                    "image_path": "/subcategories/IMG_4570.jpeg"
+                    "image_path": "/subcategories/IMG_4570.JPEG"
                 },
                 {
                     "color": "Оранжевый",
-                    "image_path": "/subcategories/IMG_4569.jpeg"
+                    "image_path": "/subcategories/IMG_4569.JPEG"
                 },
                 {
                     "color": "Темный терракот",
-                    "image_path": "/subcategories/IMG_4568.jpeg"
+                    "image_path": "/subcategories/IMG_4568.JPEG"
                 },
                 {
                     "color": "Бордовый",
-                    "image_path": "/subcategories/IMG_4567.jpeg"
+                    "image_path": "/subcategories/IMG_4567.JPEG"
                 },
                 {
                     "color": "Нежно-голубой",
-                    "image_path": "/subcategories/IMG_4566.jpeg"
+                    "image_path": "/subcategories/IMG_4566.JPEG"
                 },
                 {
                     "color": "Голубой",
-                    "image_path": "/subcategories/IMG_4565.jpeg"
+                    "image_path": "/subcategories/IMG_4565.JPEG"
                 },
                 {
                     "color": "Темно-голубой",
-                    "image_path": "/subcategories/IMG_4564.jpeg"
+                    "image_path": "/subcategories/IMG_4564.JPEG"
                 },
                 {
                     "color": "Темно-бирюзовый",
-                    "image_path": "/subcategories/IMG_4561.jpeg"
+                    "image_path": "/subcategories/IMG_4561.JPEG"
                 },
                 {
                     "color": "Светло-мятный",
-                    "image_path": "/subcategories/IMG_4560.jpeg"
+                    "image_path": "/subcategories/IMG_4560.JPEG"
                 },
                 {
                     "color": "Мятный",
-                    "image_path": "/subcategories/IMG_4559.jpeg"
+                    "image_path": "/subcategories/IMG_4559.JPEG"
                 },
                 {
                     "color": "Темно-синий",
-                    "image_path": "/subcategories/IMG_4558.jpeg"
+                    "image_path": "/subcategories/IMG_4558.JPEG"
                 },
                 {
                     "color": "Светло-сиреневый",
-                    "image_path": "/subcategories/IMG_4557.jpeg"
+                    "image_path": "/subcategories/IMG_4557.JPEG"
                 },
                 {
                     "color": "Сиреневый",
-                    "image_path": "/subcategories/IMG_4556.jpeg"
+                    "image_path": "/subcategories/IMG_4556.JPEG"
                 },
                 {
                     "color": "Темно-сиреневый",
-                    "image_path": "/subcategories/IMG_4555.jpeg"
+                    "image_path": "/subcategories/IMG_4555.JPEG"
                 },
                 {
                     "color": "Бордовый",
-                    "image_path": "/subcategories/IMG_4554.jpeg"
+                    "image_path": "/subcategories/IMG_4554.JPEG"
                 },
                 {
                     "color": "Травяной зеленый",
-                    "image_path": "/subcategories/IMG_4553.jpeg"
+                    "image_path": "/subcategories/IMG_4553.JPEG"
                 },
                 {
                     "color": "Оливковый",
-                    "image_path": "/subcategories/IMG_4551.jpeg"
+                    "image_path": "/subcategories/IMG_4551.JPEG"
                 },
                 {
                     "color": "Темно-травяной",
-                    "image_path": "/subcategories/IMG_4550.jpeg"
+                    "image_path": "/subcategories/IMG_4550.JPEG"
                 },
                 {
                     "color": "Зеленый",
-                    "image_path": "/subcategories/IMG_4549.jpeg"
+                    "image_path": "/subcategories/IMG_4549.JPEG"
                 },
                 {
                     "color": "Темно-зеленый",
-                    "image_path": "/subcategories/IMG_4547.jpeg"
+                    "image_path": "/subcategories/IMG_4547.JPEG"
                 },
                 {
                     "color": "Светло-желтый",
-                    "image_path": "/subcategories/IMG_4546.jpeg"
+                    "image_path": "/subcategories/IMG_4546.JPEG"
                 }
             ]
         }
