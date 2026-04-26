@@ -5,7 +5,6 @@ import styles from './page.module.css';
 import { Sen, Pacifico } from 'next/font/google';
 import LogoIcon from '../public/logomark.svg';
 import BagIcon from '../public/shopping-bag.svg';
-import start from '../public/1.PNG';
 import InstagramIcon from '../public/instagram.svg';
 import VkIcon from '../public/vk.svg';
 import TelegramIcon from '../public/telegram.svg';
@@ -534,7 +533,7 @@ export default function Home() {
                         <br /> букеты ещё красивее
                     </p>
                     <Image
-                        src={start}
+                        src='/1.PNG'
                         alt='start'
                         style={{ width: '100%', height: 'auto' }}
                     />
