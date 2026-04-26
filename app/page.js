@@ -533,7 +533,7 @@ export default function Home() {
                         <br /> букеты ещё красивее
                     </p>
                     <Image
-                        src='/1.PNG'
+                        src='/1.png'
                         alt='start'
                         style={{ width: '100%', height: 'auto' }}
                     />
